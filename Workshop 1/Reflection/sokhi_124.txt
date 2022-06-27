@@ -1,0 +1,14 @@
+/**********************************************
+ Workshop 1 
+ Course:<JAC444> - 4th Semester
+ Last Name: Sokhi
+ First Name:Rajbeer
+ ID:124969205
+ Section: NBB
+ This assignment represents my own work in accordance with Seneca Academic Policy.
+ Signature
+ Date: 31-05-2022
+ **********************************************/
+
+I learned the basic syntax of Java and also how to take input in Java because it is quiet weird for me because
+I am coming from C++. Also, I learned how to get any Random number generated in Java. Everything is pretty much same as C++, the difference that I found was in the syntax only.
